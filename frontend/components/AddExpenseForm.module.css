@@ -1,0 +1,31 @@
+.container {
+  background: #ffffff;
+  padding: 16px;
+  margin-top: 20px;
+  border-radius: 10px;
+  border: 1px solid #d0d7de;
+}
+
+.title {
+  font-size: 18px;
+  font-weight: 600;
+  color: #1f4e79;
+  margin-bottom: 12px;
+}
+
+.input, .select {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #c7ccd1;
+  border-radius: 8px;
+  margin-bottom: 14px;
+}
+
+.addBtn {
+  background: #1f4e79;
+  color: white;
+  padding: 8px 16px;
+  border-radius: 6px;
+  border: none;
+  cursor: pointer;
+}

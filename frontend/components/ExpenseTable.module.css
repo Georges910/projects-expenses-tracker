@@ -1,0 +1,71 @@
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+  background: #ffffff;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.06);
+}
+
+.table th {
+  background: #f0f3f7;
+  padding: 14px;
+  text-align: left;
+  font-weight: 600;
+  color: #1f4e79;
+  border-bottom: 1px solid #d0d7de;
+}
+
+.table td {
+  padding: 12px;
+  border-bottom: 1px solid #e5e8eb;
+  color: #1a1a1a;
+}
+
+.actions button {
+  margin-right: 8px;
+  padding: 6px 14px;
+  border-radius: 6px;
+  border: none;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.editBtn {
+  background: #1f4e79;
+  color: white;
+}
+
+.deleteBtn {
+  background: #b00020;
+  color: white;
+}
+
+.saveBtn {
+  background: #2a9d8f;
+  color: white;
+}
+
+.cancelBtn {
+  background: #6c757d;
+  color: white;
+}
+
+.input {
+  padding: 6px;
+  border: 1px solid #c7ccd1;
+  border-radius: 6px;
+  width: 100%;
+  background: #fdfdfd;
+}
+
+.select {
+  padding: 6px;
+  border: 1px solid #c7ccd1;
+  border-radius: 6px;
+  width: 100%;
+  background: #fdfdfd;
+}
+
